@@ -20,4 +20,4 @@ cd
 cd All-Tools
 mv MainMenu.py /data/data/com.termux/files/home/All-Tools/Tool
 clear
-cd && cd AllTools && bash src/All-Tools.sh
+cd && cd AllTools && bash src/AllHackingTool.sh
