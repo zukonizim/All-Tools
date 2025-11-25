@@ -41,7 +41,7 @@ then
         sleep 0.3
         echo ""
         cd
-        cd AllHackingTools
+        cd All-Tools
         bash Themes/Default.sh
         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
 else
@@ -51,7 +51,7 @@ else
                 sleep 0.3
                 echo ""
                 cd
-                cd AllHackingTools
+                cd All-Tools
                 bash Themes/Neon.sh
                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
         else
@@ -61,7 +61,7 @@ else
                         sleep 0.3
                         echo ""
                         cd
-                        cd AllHackingTools
+                        cd All-Tools
                         bash Themes/GoogleDark.sh
                         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                 else
@@ -71,7 +71,7 @@ else
                                 sleep 0.3
                                 echo ""
                                 cd
-                                cd AllHackingTools
+                                cd All-Tools
                                 bash Themes/Materia.sh
                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                         else
@@ -81,7 +81,7 @@ else
                                         sleep 0.3
                                         echo ""
                                         cd
-                                        cd AllHackingTools
+                                        cd All-Tools
                                         bash Themes/Material.sh
                                         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                 else
@@ -91,7 +91,7 @@ else
                                                 sleep 0.3
                                                 echo ""
                                                 cd
-                                                cd AllHackingTools
+                                                cd All-Tools
                                                 bash Themes/Smyck.sh
                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                         else
@@ -101,7 +101,7 @@ else
                                                         sleep 0.3
                                                         echo ""
                                                         cd
-                                                        cd AllHackingTools
+                                                        cd All-Tools
                                                         bash Themes/Dracula.sh
                                                         echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                                 else
@@ -111,13 +111,13 @@ else
                                                                 sleep 0.3
                                                                 echo ""
                                                                 cd
-                                                                cd AllHackingTools
+                                                                cd All-Tools
                                                                 bash Themes/Twilight.sh
                                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Applined Succesful..!"
                                                         else
                                                                 echo -n "${BLUE}[${RED}!${BLUE}] ${GREEN}Invalid input! Reloading Option"
                                                                 sleep 1.5
-                                                                cd && cd AllHackingTools && bash src/ThemesSelectel.sh
+                                                                cd && cd All-Tools && bash src/ThemesSelectel.sh
                                                         fi
                                                 fi
                                         fi
