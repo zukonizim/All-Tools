@@ -9,10 +9,10 @@ echo '
    ├ Tools for special operations 
    ├ blackmail utilities And human use
   [SKIP]┐
-      ┌[03] >> Sniffing and Spoofing:  -  Veri ve veritabanlarının sahteciliği için araçlar
-      │[04] >> Web Attack Tools:  -  Web sitelerini ve sunucuları hacklemek için araçlar
-  [-]─┘[05] >> Cam Hacking Tools:  -  Kameraları ve ön kamerayı hacklemek için araçlar RAT
-       [06] >> Remote Trojan RAT:  -  RAT virüsü oluşturmak için yardımcı programlar
+      ┌[03] >> Sniffing and Spoofing:  
+      │[04] >> Web Attack Tools:  
+  [-]─┘[05] >> Cam Hacking Tools:  
+       [06] >> Remote Trojan RAT:  
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣        
    ╔[NOTICE] Useful Tools 
   [07] >> SQL injection Tool:
@@ -23,15 +23,15 @@ echo '
    ├ And Bruteforce social networks
   [>]┐
    ┌[SKIP]
-  [09] >> Bombing & Spamming Tools:  -  SMS Bombalama ve Anonim SMS Gönderme Yardımcı Programları
-  [10] >> Vulnerability Analysis:  -  Güvenlik açığı analizine yönelik sistemler
-  [11] >> DarkSearch Tools:      -  DarkNet ve DeepWebde arama araçları
-  [12] >> Phishing And IpHack:  -  Kimlik avı ve sahte web siteleri için araçlar
-  [13] >> Passworld Attack:    -  Şifreleri kırmak için yardımcı programlar
-  [14] >> Wordlist Generator:  -  WorldList Oluşturma Araçları
-  [15] >> XSS Attack Tools:  -  XSS Saldırılarına Yönelik Yardımcı Programlar
-  [16] >> Discord leaks:   - Toplu kullanıcı bilgilerinin uyumsuzluğu
-  [17] >> Telegram Info: - Telegram kullanıcı bilgileri
+  [09] >> Bombing & Spamming Tools:  
+  [10] >> Vulnerability Analysis:  
+  [11] >> DarkSearch Tools:       
+  [12] >> Phishing And IpHack:   
+  [13] >> Passworld Attack:    
+  [14] >> Wordlist Generator:  
+  [15] >> XSS Attack Tools:   
+  [16] >> Discord leaks:   
+  [17] >> Telegram Info: 
 
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣
   [18] >> Other tools: 
@@ -39,10 +39,10 @@ echo '
   [19] >> Terminal Panel: 
    ├ Termux control and special features
   [SKIP]┐
-      ┌[20] >> System Settings:  -  All-Tools kontrolü ve özel özellikleri
-      │[21] >> System License:  -  All-Toolsdaki lisansı görüntüleyin
-  [-]─┘[22] >> Update System:  -  Sistemi ve tüm araçları ve menüyü güncelle
-       [23] >> About System:  -  Sistem bilgilerini ve geliştiriciyi görüntüleyin
-       [24] >> Exit System:  -  All-Tools sisteminden çıkış yapın
-       [25] >> Log Out Terminal  -  All-Tools And Terminalden çıkış yapın ' |lolcat -p 4.6
+      ┌[20] >> System Settings:  
+      │[21] >> System License:  
+  [-]─┘[22] >> Update System: 
+       [23] >> About System:  
+       [24] >> Exit System:  
+       [25] >> Log Out Terminal   ' |lolcat -p 4.6
 
