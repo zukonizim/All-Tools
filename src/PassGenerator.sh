@@ -14,8 +14,8 @@ dd bs=16 count=1 if=/dev/urandom status=none | base64
 dd bs=16 count=1 if=/dev/urandom status=none | base64
 cd
 cd
-cd AllHackingTools
+cd All-Tools
 python3 src/Timer1.py
 python2 src/aboutMenu.py   
 cd
-cd AllHackingTools
+cd All-Tools
