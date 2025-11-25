@@ -1,7 +1,7 @@
 
 cd 
 cd
-cd AllHackingTools
+cd All-Tools
 rm -rf .check
 rm -rf .temp
 rm -rf .logs
@@ -20,18 +20,18 @@ cd
 cd
 git clone https://github.com/mishakorzik/Termux-Setting
 cd Termux-Setting
-mv .check /data/data/com.termux/files/home/AllHackingTools
-mv .desing /data/data/com.termux/files/home/AllHackingTools
-mv .temp /data/data/com.termux/files/home/AllHackingTools
-mv .logs /data/data/com.termux/files/home/AllHackingTools
-mv .settings /data/data/com.termux/files/home/AllHackingTools
-mv Files /data/data/com.termux/files/home/AllHackingTools
-mv src /data/data/com.termux/files/home/AllHackingTools
-mv Help /data/data/com.termux/files/home/AllHackingTools
-mv Themes /data/data/com.termux/files/home/AllHackingTools
-mv Termux-os /data/data/com.termux/files/home/AllHackingTools
-mv Uninstall /data/data/com.termux/files/home/AllHackingTools
-mv Castom /data/data/com.termux/files/home/AllHackingTools
+mv .check /data/data/com.termux/files/home/All-Tools
+mv .desing /data/data/com.termux/files/home/All-Tools
+mv .temp /data/data/com.termux/files/home/All-Tools
+mv .logs /data/data/com.termux/files/home/All-Tools
+mv .settings /data/data/com.termux/files/home/All-Tools
+mv Files /data/data/com.termux/files/home/All-Tools
+mv src /data/data/com.termux/files/home/All-Tools
+mv Help /data/data/com.termux/files/home/All-Tools
+mv Themes /data/data/com.termux/files/home/All-Tools
+mv Termux-os /data/data/com.termux/files/home/All-Tools
+mv Uninstall /data/data/com.termux/files/home/All-Tools
+mv Castom /data/data/com.termux/files/home/All-Tools
 cd 
 cd
 rm -rf Termux-Setting
