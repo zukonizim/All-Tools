@@ -1,29 +1,29 @@
 echo '
-  {01} - Information Gathering:  -  Collects information from database
-  {02} - Exploitation Tools:  -  selection of tools for operation and hacking
-  {03} - Sniffing and Spoofing:  -  Tools for forgery of data and databases
-  {04} - Web Attack Tools:  -  Tools for hacking websites and servers
-  {05} - Cam Hacking Tools:  -  Tools for hacking cams and front camera
-  {06} - Remote Trojan RAT:  -  Utilities for creating RAT virus
+  {01} - Information Gathering:  
+  {02} - Exploitation Tools:  
+  {03} - Sniffing and Spoofing:  
+  {04} - Web Attack Tools:  
+  {05} - Cam Hacking Tools:  
+  {06} - Remote Trojan RAT:  
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  
-  {07} - SQL injection Tool:  -  Tools for creating viruses
-  {08} - SocialMedia Hacking:  -  Tools for hacking social networks
-  {09} - SMS spaming Tools:  -  Utilities for spam and anonymous SMS
-  {10} - Vulnerability Analysis:  -  Systems for vulnerability analysis
-  {11} - DarkSearch Tool:  -  Tools for Secret and Onion search 
-  {12} - Phishing And IpHack:  -  Tools for phishing and fake websites
-  {13} - Passworld Attack:  -  Utilities for cracking passwords
-  {14} - Wordlist Generator:  -  Tools for Genering Worldlist
-  {15} - XSS Attack Tools:  -  Utilities for Attacking XSS
-  {16} - Discord leaks: - Discord mass users information
-  {17} - Telegram Info: - Mass Telegram users information
+  {07} - SQL injection Tool:  
+  {08} - SocialMedia Hacking:  
+  {09} - SMS spaming Tools:  
+  {10} - Vulnerability Analysis:  
+  {11} - DarkSearch Tool:  
+  {12} - Phishing And IpHack:  
+  {13} - Passworld Attack:  
+  {14} - Wordlist Generator:  
+  {15} - XSS Attack Tools:  
+  {16} - Discord leaks: 
+  {17} - Telegram Info: 
 
       ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣⁣  ⁣    ⁣  ⁣⁣  ⁣⁣ 
-  {18} - Other Tools:  -  Separate and other tools for hacking
-  {19} - Terminal Panel:  -  Termux control and special features
-  {20} - System Settings:  -  AllHackingTools control and special features
-  {21} - System License:  -  View the license in AllHackingTools
-  {22} - Update System:  -  Update system and all tools & menu and more utilitys
-  {23} - About System:  -  View system information and developer
-  {24} - Exit System:  -  Log out of the AllHackingTools system '|lolcat -p 3.8
+  {18} - Other Tools:  
+  {19} - Terminal Panel:  
+  {20} - System Settings:  
+  {21} - System License:
+  {22} - Update System:  
+  {23} - About System:  
+  {24} - Exit System:   '|lolcat -p 3.8
 
