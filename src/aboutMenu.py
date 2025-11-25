@@ -5,7 +5,7 @@ import random
 import sys
 
 os.system("clear")
-os.system("cd && cd AllHackingTools")
+os.system("cd && cd All-Tools")
 os.system("bash Logo.sh")
 os.system("bash src/MenuA.sh")
 
@@ -26,7 +26,7 @@ elif(op==2):
  print("\033[1;31;40mRebooting system...")
  time.sleep(0.7)
  os.system("cd")
- os.system("cd AllHackingTools")
+ os.system("cd All-Tools")
  os.system("bash src/AllHackingTool.sh")
 elif(op==3):
  print("\033[1;31;40mQuiting system...")
