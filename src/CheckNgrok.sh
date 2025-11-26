@@ -15,7 +15,7 @@ echo -e "$yellow[!]-[Downloading:Ngrok.............[ INSTALLING ]"
 sleep 1.2
 cd 
 cd
-cd AllHackingTools
+cd All-Tools
 cd Castom
 cp ngrok /data/data/com.termux/files/home/
 cd
