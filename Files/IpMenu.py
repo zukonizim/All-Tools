@@ -30,72 +30,72 @@ op=int(raw_input("1nf0RmatI0n: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd AstraNmap && bash astranmap.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd AstraNmap && bash astranmap.sh && cd && cd All-Tools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd EvilURL && python3 evilurl.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd EvilURL && python3 evilurl.py && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==6):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Easymap && php easymap.php && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd Easymap && php easymap.php && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==3):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd OSIF && python2 osif.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd OSIF && python2 osif.py && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==4):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd weeman && python2 weeman.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd weeman && python2 weeman.py && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==5):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd MaxSubdoFinder && python2 maxteroit.py && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd MaxSubdoFinder && python2 maxteroit.py && cd && cd All-Tools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==7):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd trape && python trape.py && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd trape && python trape.py && cd && cd All-Tools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==8):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd RED_HAWK && php rhawk.php && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd RED_HAWK && php rhawk.php && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==9):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd LittleBrother && python3 LittleBrother.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd LittleBrother && python3 LittleBrother.py && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==10):
  os.system("clear")
- os.system("cd && cd AllHackingTools")
+ os.system("cd && cd All-Tools")
  print("Open a second window in Termux and run ngrok on port 8080: ./ngrok http 8080")
  print("Or use serveo.net free tunnel.")
  time.sleep(1.4)
- print("Warning AllHackingTools has already downloaded ngrok")
+ print("Warning All-Tools has already downloaded ngrok")
  time.sleep(2.3)
- os.system("cd seeker && python seeker.py -t manual && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd seeker && python seeker.py -t manual && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==11):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd ReconDog && ./dog && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd ReconDog && ./dog && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==12):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd D-Tech && python2 d-tect.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd D-Tech && python2 d-tect.py && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==13):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd webkiller && python3 webkiller.py && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd webkiller && python3 webkiller.py && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==14):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Files && bash IpHack.sh && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd Files && bash IpHack.sh && python2 MainMenu.py")
 elif(op==15):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Files && bash Nikto.sh && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd Files && bash Nikto.sh && echo done! && sleep 3 && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==16):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd Files && bash iSMTP.sh && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd Files && bash iSMTP.sh && echo done! && sleep 3 && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==17):
  os.system("clear")
- os.system("cd && cd AllHackingTools && cd MailFinder && python MailFinder.py && echo done! && sleep 3 && cd && cd AllHackingTools && python2 MainMenu.py")
+ os.system("cd && cd All-Tools && cd MailFinder && python MailFinder.py && echo done! && sleep 3 && cd && cd All-Tools && python2 MainMenu.py")
 elif(op==18):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting System...")
  sys.exit()
 elif(op==19):
  os.system("cd")
- os.system("cd AllHackingTools")
+ os.system("cd All-Tools")
  os.system("python2 MainMenu.py")
 else:
  print("\033[1;31;40mInvalid input. Reloading Tools") 
  time.sleep(1.6)
  os.system("cd")
- os.system("cd AllHackingTools")
+ os.system("cd All-Tools")
  os.system("python2 Files/IpMenu.py")
