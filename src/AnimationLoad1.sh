@@ -8,11 +8,11 @@ printf "\e[1;92m"
 
 cd
 cd
-cd AllHackingTools 
+cd All-Tools 
 clear
 cd
 cd
-cd AllHackingTools
-mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/Tool
+cd All-Tools
+mv MainMenu.py /data/data/com.termux/files/home/All-Tools/Tool
 cd src
 python3 CheckFolder.py
