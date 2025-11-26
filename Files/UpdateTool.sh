@@ -114,7 +114,7 @@ echo '
 ██║░░██║██║░░██║██║╚████║██╔══╝░░
 ██████╔╝╚█████╔╝██║░╚███║███████╗
 ╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝
-Developer : mishakorzhik
+Developer : zuko
 created on: 23 05 2021
 code      : python, bash, php
 '|lolcat -p 1.0
