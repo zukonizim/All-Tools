@@ -23,7 +23,7 @@ echo -e "$y [>] Tool Name : All-Tools"
 echo -e "$y [>] Developer : zuko"
 echo ""
 echo -e $w"["$o"SYSTEM"$w"]"$w" I don't close Termux App And CNTR + C."$w
-echo -e $w"["$o"SYSTEM"$w"]"$w" Press enter. To update AllHackingTools"$w
+echo -e $w"["$o"SYSTEM"$w"]"$w" Press enter. To update All-Tools"$w
 read a1
 cd
 cd
