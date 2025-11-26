@@ -19,8 +19,8 @@ echo -e "$y |    |  / |  |_> > /_/ | / __ \|  | \  ___/     "
 echo -e "$y |______/  |   __/\____ |(____  /__|  \___  >    "
 echo -e "$y           |__|        \/     \/          \/     "
 echo ""
-echo -e "$y [>] Tool Name : AllHackingTools"
-echo -e "$y [>] Developer : Misha Korzhik"
+echo -e "$y [>] Tool Name : All-Tools"
+echo -e "$y [>] Developer : zuko"
 echo ""
 echo -e $w"["$o"SYSTEM"$w"]"$w" I don't close Termux App And CNTR + C."$w
 echo -e $w"["$o"SYSTEM"$w"]"$w" Press enter. To update AllHackingTools"$w
