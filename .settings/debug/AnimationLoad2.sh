@@ -107,12 +107,12 @@ clear
 printf "\n###################### DONE!\n"
 cd
 cd 
-cd AllHackingTools 
+cd All-Tools 
 bash src/CheckWifi.sh
 sleep 2
 clear
 sleep 0.1
 cd
 cd
-cd AllHackingTools
+cd All-Tools
 python2 MainMenu.py
