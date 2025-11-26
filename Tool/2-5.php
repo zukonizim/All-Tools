@@ -63,7 +63,7 @@ echo $orange . " 11a6201";
 echo $white . " [";
 echo $red . "build";
 echo $white . "]";
-echo $white . " yet the AllHackingTools system has been";
+echo $white . " yet the All-Tools system has been";
 echo $green . " optimized";
 echo $white . "!";
 echo $white . "  \n";
@@ -77,7 +77,7 @@ echo $orange . " 1t200e6";
 echo $white . " [";
 echo $red . "script";
 echo $white . "]";
-echo $white . " AllHackingTools still";
+echo $white . " All-Tools still";
 echo $green . " uses php";
 echo $white . "!";
 
@@ -87,7 +87,7 @@ echo $orange . " 4y00730";
 echo $white . " [";
 echo $red . "script";
 echo $white . "]";
-echo $white . " AllHackingTools is";
+echo $white . " All-Tools is";
 echo $green . " still improved";
 echo $white . "!";
 
@@ -124,7 +124,7 @@ echo $red . "Test";
 echo $white . "]";
 echo $white . " Developer mode successfully tested";
 echo $green . " successfully tested";
-echo $white . " in AllHackingTools"; 
+echo $white . " in All-Tools"; 
 echo $white . "!";
 
 echo $white . "  \n";
