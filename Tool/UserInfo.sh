@@ -1,1 +1,1 @@
-cd && python AllHackingTools/Tool/UserInfo.py
+cd && python All-Tools/Tool/UserInfo.py
