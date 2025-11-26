@@ -12,7 +12,7 @@ echo -e $w"["$r"ERROR"$w"]"$b"Error to starting tool! Error code 25-39"$w
 sleep 0.02
 echo -e $w"["$g"INFO"$w"]"$b"Reloading Tools. Please wait!"$w
 cd
-cd AllHackingTools
+cd All-Tools
 python2 MainMenu.py
 
 
