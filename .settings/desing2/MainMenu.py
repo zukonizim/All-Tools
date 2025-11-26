@@ -5,7 +5,7 @@ import random
 import sys
 
 os.system("clear")
-os.system("cd && cd AllHackingTools")
+os.system("cd && cd All-Tools")
 os.system("bash Logo.sh")
 os.system("bash src/MenuOps3.sh")
 
@@ -27,7 +27,7 @@ op=int(raw_input("Options: "))
 if(op==1):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/IpMenuConfig.py")
+ os.system("cd && cd All-Tools && python3 .check/IpMenuConfig.py")
 elif(op==2):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
@@ -79,40 +79,40 @@ elif(op==13):
 elif(op==14):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 Files/WordlistGeneratorMenu.py")
+ os.system("cd && cd All-Tools && python2 Files/WordlistGeneratorMenu.py")
 elif(op==15):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 Files/XSSAttackMenu.py")
+ os.system("cd && cd All-Tools && python2 Files/XSSAttackMenu.py")
 elif(op==16):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 Files/discordMenu.py")
+ os.system("cd && cd All-Tools && python2 Files/discordMenu.py")
 elif(op==17):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 Files/telegramMenu.py")
+ os.system("cd && cd All-Tools && python2 Files/telegramMenu.py")
 elif(op==18):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/OtherToolConfig.py")
+ os.system("cd && cd All-Tools && python3 .check/OtherToolConfig.py")
 elif(op==19):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python3 .check/TermuxPanelConfig.py")
+ os.system("cd && cd All-Tools && python3 .check/TermuxPanelConfig.py")
 elif(op==20):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("cd && cd AllHackingTools && python2 .settings/settingsMenu.py")
+ os.system("cd && cd All-Tools && python2 .settings/settingsMenu.py")
 elif(op==21):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
- os.system("clear && cd && cd AllHackingTools && bash .settings/LICENSE.sh && cd && cd AllHackingTools && python3 src/Timer2.py && python2 MainMenu.py")
+ os.system("clear && cd && cd All-Tools && bash .settings/LICENSE.sh && cd && cd All-Tools && python3 src/Timer2.py && python2 MainMenu.py")
 elif(op==22):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
  time.sleep(1)
- os.system("cd && cd AllHackingTools && python3 .check/UpdaterConfig.py")
+ os.system("cd && cd All-Tools && python3 .check/UpdaterConfig.py")
 elif(op==23):
  os.system("bash src/Inf.sh")
  time.sleep(0.3)
@@ -120,17 +120,17 @@ elif(op==23):
 elif(op==13324715):
  print("[DEBUG] Developer mode successfully enabled!")
  time.sleep(0.8)
- os.system("cd && cd AllHackingTools && cd .settings && mv DesingLogo.py /data/data/com.termux/files/home/AllHackingTools/.temp/ && mv DesingMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/")
+ os.system("cd && cd All-Tools && cd .settings && mv DesingLogo.py /data/data/com.termux/files/home/All-Tools/.temp/ && mv DesingMenu.py /data/data/com.termux/files/home/All-Tools/.temp/")
  print("[DEBUG] Please restart AllHackingTools!")
- os.system("cd && cd AllHackingTools && mv MainMenu.py /data/data/com.termux/files/home/AllHackingTools/.temp/temp && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/AllHackingTools/")
+ os.system("cd && cd All-Tools && mv MainMenu.py /data/data/com.termux/files/home/All-Tools/.temp/temp && cd .settings && cd debug && cp MainMenu.py /data/data/com.termux/files/home/All-Tools/")
  print("[DEBUG] Warning! Customization has been disabled.")
 elif(op==24):
- os.system("clear && cd && cd AllHackingTools && bash Logo.sh")
+ os.system("clear && cd && cd All-Tools && bash Logo.sh")
  print("\033[1;31;40mExiting System...")
  time.sleep(0.7)
 else:
  print("\033[1;31;40mInvalid input. Reloading Tools") 
  time.sleep(1.6)
  os.system("cd")
- os.system("cd AllHackingTool")
+ os.system("cd All-Tool")
  os.system("python2 MainMenu.py")
