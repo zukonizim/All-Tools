@@ -8,7 +8,7 @@ printf "\e[1;92m"
 
 cd
 cd
-cd AllHackingTools 
+cd All-Tools 
 cd src
 python3 ProgressBar.py
 python3 Packages.py
@@ -16,5 +16,5 @@ sleep 2
 clear
 cd
 cd
-cd AllHackingTools
+cd All-Tools
 python2 MainMenu.py
